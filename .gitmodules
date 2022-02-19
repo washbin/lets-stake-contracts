@@ -1,0 +1,3 @@
+[submodule "lets-stake-frontend"]
+	path = lets-stake-frontend
+	url = git@github.com:washbin/lets-stake-frontend.git
